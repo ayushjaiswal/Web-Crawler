@@ -1,6 +1,3 @@
-### get_page copied from lecture --> find out
-### page is the url of the webpage
-
 def get_page(url):
 	try:
 		import urllib
